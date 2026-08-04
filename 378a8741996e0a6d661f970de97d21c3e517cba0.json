@@ -1,0 +1,235 @@
+{
+  "old_new": "new",
+  "id": "Spectronaut_20260804_120117",
+  "software_name": "Spectronaut",
+  "software_version": "21.0.260602.94842",
+  "search_engine": "Spectronaut",
+  "search_engine_version": "21.0.260602.94842",
+  "ident_fdr_psm": "0.01",
+  "ident_fdr_peptide": "nan",
+  "ident_fdr_protein": "0.01",
+  "enable_match_between_runs": false,
+  "precursor_mass_tolerance": "Automatic calibration",
+  "fragment_mass_tolerance": "Automatic calibration",
+  "enzyme": "NoCleavage",
+  "allowed_miscleavages": "2",
+  "min_peptide_length": "7",
+  "max_peptide_length": "52",
+  "is_temporary": false,
+  "intermediate_hash": "378a8741996e0a6d661f970de97d21c3e517cba0",
+  "results": {
+    "nr_id_features": 56807,
+    "reported_fdr_parsed_from_input": 0.0099979816004633,
+    "combined_FDP": 0.009505870755364656,
+    "lower_bound_FDP": 0.004752935377682328,
+    "paired_FDP": 0.008572887144189977,
+    "category_combined": "valid",
+    "category_paired": "valid",
+    "fdp_curve": {
+      "0.0009998": {
+        "lower_bound_FDP": 0.0004677458716342634,
+        "combined_FDP": 0.0009354917432685268,
+        "paired_FDP": 0.0008541446351582201,
+        "nr_id_features": 49172,
+        "category_combined": "valid",
+        "category_paired": "valid"
+      },
+      "0.001": {
+        "lower_bound_FDP": 0.0004677458716342634,
+        "combined_FDP": 0.0009354917432685268,
+        "paired_FDP": 0.0008541446351582201,
+        "nr_id_features": 49172,
+        "category_combined": "valid",
+        "category_paired": "valid"
+      },
+      "0.0019996": {
+        "lower_bound_FDP": 0.0009649901571003976,
+        "combined_FDP": 0.0019299803142007951,
+        "paired_FDP": 0.0017948816922067395,
+        "nr_id_features": 51814,
+        "category_combined": "valid",
+        "category_paired": "valid"
+      },
+      "0.00299939": {
+        "lower_bound_FDP": 0.0015039572876130317,
+        "combined_FDP": 0.0030079145752260634,
+        "paired_FDP": 0.0028199199142744345,
+        "nr_id_features": 53193,
+        "category_combined": "inconclusive",
+        "category_paired": "valid"
+      },
+      "0.00399919": {
+        "lower_bound_FDP": 0.0018849096352145471,
+        "combined_FDP": 0.0037698192704290943,
+        "paired_FDP": 0.0034741471707875967,
+        "nr_id_features": 54114,
+        "category_combined": "valid",
+        "category_paired": "valid"
+      },
+      "0.00499899": {
+        "lower_bound_FDP": 0.002443739285844549,
+        "combined_FDP": 0.004887478571689098,
+        "paired_FDP": 0.004449793923478134,
+        "nr_id_features": 54834,
+        "category_combined": "valid",
+        "category_paired": "valid"
+      },
+      "0.00599879": {
+        "lower_bound_FDP": 0.002946067090803933,
+        "combined_FDP": 0.005892134181607866,
+        "paired_FDP": 0.005367987275882013,
+        "nr_id_features": 55328,
+        "category_combined": "valid",
+        "category_paired": "valid"
+      },
+      "0.00699859": {
+        "lower_bound_FDP": 0.00342060962068842,
+        "combined_FDP": 0.00684121924137684,
+        "paired_FDP": 0.006232314910992514,
+        "nr_id_features": 55838,
+        "category_combined": "valid",
+        "category_paired": "valid"
+      },
+      "0.00799839": {
+        "lower_bound_FDP": 0.0037725776314618737,
+        "combined_FDP": 0.0075451552629237474,
+        "paired_FDP": 0.006868938517661714,
+        "nr_id_features": 56195,
+        "category_combined": "valid",
+        "category_paired": "valid"
+      },
+      "0.00899818": {
+        "lower_bound_FDP": 0.004210451827477621,
+        "combined_FDP": 0.008420903654955241,
+        "paired_FDP": 0.0075894278738987365,
+        "nr_id_features": 56526,
+        "category_combined": "valid",
+        "category_paired": "valid"
+      },
+      "0.00999798": {
+        "lower_bound_FDP": 0.004752935377682328,
+        "combined_FDP": 0.009505870755364656,
+        "paired_FDP": 0.008572887144189977,
+        "nr_id_features": 56807,
+        "category_combined": "valid",
+        "category_paired": "valid"
+      }
+    }
+  },
+  "nr_id_features": 56807,
+  "lower_bound_FDP": 0.004752935377682328,
+  "combined_FDP": 0.009505870755364656,
+  "category_combined": "valid",
+  "category_paired": "valid",
+  "paired_FDP": 0.008572887144189977,
+  "reported_fdr_parsed_from_input": 0.0099979816004633,
+  "fdp_curve": {
+    "0.0009998": {
+      "lower_bound_FDP": 0.0004677458716342634,
+      "combined_FDP": 0.0009354917432685268,
+      "paired_FDP": 0.0008541446351582201,
+      "nr_id_features": 49172,
+      "category_combined": "valid",
+      "category_paired": "valid"
+    },
+    "0.001": {
+      "lower_bound_FDP": 0.0004677458716342634,
+      "combined_FDP": 0.0009354917432685268,
+      "paired_FDP": 0.0008541446351582201,
+      "nr_id_features": 49172,
+      "category_combined": "valid",
+      "category_paired": "valid"
+    },
+    "0.0019996": {
+      "lower_bound_FDP": 0.0009649901571003976,
+      "combined_FDP": 0.0019299803142007951,
+      "paired_FDP": 0.0017948816922067395,
+      "nr_id_features": 51814,
+      "category_combined": "valid",
+      "category_paired": "valid"
+    },
+    "0.00299939": {
+      "lower_bound_FDP": 0.0015039572876130317,
+      "combined_FDP": 0.0030079145752260634,
+      "paired_FDP": 0.0028199199142744345,
+      "nr_id_features": 53193,
+      "category_combined": "inconclusive",
+      "category_paired": "valid"
+    },
+    "0.00399919": {
+      "lower_bound_FDP": 0.0018849096352145471,
+      "combined_FDP": 0.0037698192704290943,
+      "paired_FDP": 0.0034741471707875967,
+      "nr_id_features": 54114,
+      "category_combined": "valid",
+      "category_paired": "valid"
+    },
+    "0.00499899": {
+      "lower_bound_FDP": 0.002443739285844549,
+      "combined_FDP": 0.004887478571689098,
+      "paired_FDP": 0.004449793923478134,
+      "nr_id_features": 54834,
+      "category_combined": "valid",
+      "category_paired": "valid"
+    },
+    "0.00599879": {
+      "lower_bound_FDP": 0.002946067090803933,
+      "combined_FDP": 0.005892134181607866,
+      "paired_FDP": 0.005367987275882013,
+      "nr_id_features": 55328,
+      "category_combined": "valid",
+      "category_paired": "valid"
+    },
+    "0.00699859": {
+      "lower_bound_FDP": 0.00342060962068842,
+      "combined_FDP": 0.00684121924137684,
+      "paired_FDP": 0.006232314910992514,
+      "nr_id_features": 55838,
+      "category_combined": "valid",
+      "category_paired": "valid"
+    },
+    "0.00799839": {
+      "lower_bound_FDP": 0.0037725776314618737,
+      "combined_FDP": 0.0075451552629237474,
+      "paired_FDP": 0.006868938517661714,
+      "nr_id_features": 56195,
+      "category_combined": "valid",
+      "category_paired": "valid"
+    },
+    "0.00899818": {
+      "lower_bound_FDP": 0.004210451827477621,
+      "combined_FDP": 0.008420903654955241,
+      "paired_FDP": 0.0075894278738987365,
+      "nr_id_features": 56526,
+      "category_combined": "valid",
+      "category_paired": "valid"
+    },
+    "0.00999798": {
+      "lower_bound_FDP": 0.004752935377682328,
+      "combined_FDP": 0.009505870755364656,
+      "paired_FDP": 0.008572887144189977,
+      "nr_id_features": 56807,
+      "category_combined": "valid",
+      "category_paired": "valid"
+    }
+  },
+  "comments": "",
+  "proteobench_version": "0.17.6",
+  "fixed_mods": "C[Carbamidomethyl]",
+  "variable_mods": "nan",
+  "max_mods": "0",
+  "min_precursor_charge": "nan",
+  "max_precursor_charge": "nan",
+  "min_precursor_mz": "nan",
+  "max_precursor_mz": "nan",
+  "min_fragment_mz": "200",
+  "max_fragment_mz": "3000",
+  "quantification_method": "MS2",
+  "protein_inference": "IDPicker",
+  "abundance_normalization_ions": "True",
+  "predictors_library": "nan",
+  "scan_window": "Dynamic",
+  "postprocessing_performed": false,
+  "postprocessing_description": "nan",
+  "submission_comments": "\n\n ### Parameter changes detected:\n- **semi_enzymatic**: `False` \u2192 `[MISSING]`\n\n### Automated submission checks\n0 item(s) to review and 1 note(s) were flagged for reviewer attention (these do not block submission).\n- Could not re-standardize the results for validation (ValueError: too many values to unpack (expected 2)); protein/charge/length checks were skipped.\n\nDataset URL: https://proteobench.cubimed.rub.de/datasets/378a8741996e0a6d661f970de97d21c3e517cba0/"
+}
